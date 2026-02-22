@@ -1,4 +1,3 @@
-
 import SwiftUI
 
 private struct DrawerOpenedKey: EnvironmentKey {

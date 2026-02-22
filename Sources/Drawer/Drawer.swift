@@ -1,4 +1,3 @@
-
 import SwiftUI
 
 /// Generic Drawer container that slides in `Menu` from the left edge on top of a given `Content`.
