@@ -1,15 +1,4 @@
-# Drawer
-
-https://user-images.githubusercontent.com/829562/213693849-2cd9e1e7-8eaf-4110-bdcf-fb20917413ac.mp4
-
-
-<p align="left" >
-  <video src="https://github.com/LanarsInc/swiftui-drawer/blob/main/Assets/preview.mp4" alt="Drawer" title="Drawer">
-</p>
-
-## Overview and Motivation
-This repo provides implementation of a Drawer that slides your menu from the left edge on top of a given content. Also, Example app provides a fully fledge side menu build on top of a Drawer. You can follow [series](https://lanars.com/blog/sidemenu-in-swiftui-part1) of [articles](https://lanars.com/blog/sidemenu-in-swiftui-part2) on our [blog](https://lanars.com/blog/) to get a hands-on experience of how it was build.
-
+# SwiftUI SideBar
 ## Requirements
 Platform | Min Deployment Target
 :---: | :---:
